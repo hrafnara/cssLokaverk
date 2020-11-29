@@ -1,0 +1,29 @@
+
+#include <iostream>
+#include <string>
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+class LED{
+    private:
+        int numer;
+        int staerth;
+        string litur;
+
+}
+class Vithnam{
+    private:
+        int numer;
+        int staerth;
+        int ohm;
+
+}
+class Thettir{
+    private:
+        int numer;
+        int staerth;
+        float f;
+
+}
